@@ -2,6 +2,11 @@
 
 A simple Android app that lets users input food options and get random recommendations based on budget, food type, and portion size.
 
+### 📲 Demo Download
+
+[Download APK](https://github.com/honeycream0903/FoodPickerApp/releases/download/v1.0-android/app-debug.apk)
+
+
 ## 📱 Features
 
 - Multi-screen interface with View switching
