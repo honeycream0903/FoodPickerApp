@@ -16,7 +16,8 @@ A simple Android app that lets users input food options and get random recommend
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/36c5579c-c41b-4835-bf91-7bd13c3aa9f4)
 ![image](https://github.com/user-attachments/assets/41726ee6-ee9d-472e-ab1c-88db0f7de77d)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6da2b7b5-6d6e-46e5-bf85-0744b9e02dc6)
+
 
 
 
