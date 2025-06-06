@@ -26,11 +26,20 @@ A simple Android app that lets users input food options and get random recommend
 
 
 ## 🚀 Getting Started
-1.Clone this repo:
-git clone https://github.com/honeycream0903/FoodPickerApp.git
+
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/honeycream0903/FoodPickerApp.git
+
 2.Open in Android Studio
+
 3.Run on emulator or device
 
+
+## 🛠 Built With
+- Java
+- Android SDK
+- SQLite
 ## 🛠 Built With
 Java
 Android SDK
