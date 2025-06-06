@@ -40,7 +40,3 @@ A simple Android app that lets users input food options and get random recommend
 - Java
 - Android SDK
 - SQLite
-## 🛠 Built With
-Java
-Android SDK
-SQLite
