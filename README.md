@@ -22,13 +22,12 @@ Clean UI with AlertDialog & Toast feedback
 
 
 ## 🚀 Getting Started
-Clone this repo:
+1.Clone this repo:
 git clone https://github.com/honeycream0903/FoodPickerApp.git
 2.Open in Android Studio
+3.Run on emulator or device
 
-## Run on emulator or device
-
-🛠 Built With
+## 🛠 Built With
 Java
 Android SDK
 SQLite
